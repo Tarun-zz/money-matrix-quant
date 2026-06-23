@@ -150,7 +150,7 @@ Computed for both the strategy and the benchmark:
 ## How to Run
 
 ```bash
-git clone https://github.com/[yourusername]/money-matrix-quant.git
+git clone https://github.com/Tarun-zz/money-matrix-quant.git
 cd money-matrix-quant
 pip install -r requirements.txt
 jupyter notebook Analysis.ipynb
