@@ -155,3 +155,13 @@ The `/docs` folder contains a 3-page writeup covering:
 - The alpha hypothesis (why EMA + RSI predicts price momentum)
 - Parameter selection rationale (why 20/50 spans, why the 70/80 RSI thresholds)
 - Robustness conclusions (summary of Phase 4 findings and the strategy's honest limitations)
+## Results
+
+### Equity Curve (Log Scale) vs. Equal-Weight Benchmark
+![Equity Curve](assets/equity_curve.png)
+
+### Drawdown Underwater Plot
+![Drawdown](assets/drawdown.png)
+
+### Rolling 6-Month Sharpe Ratio
+![Rolling Sharpe](assets/rolling_sharpe.png)
