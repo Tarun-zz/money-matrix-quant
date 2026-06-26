@@ -161,7 +161,6 @@ The `/docs` folder contains a 3-page writeup covering:
 ![Equity Curve](assets/Cumulative_Portfolio_Equity.png)
 
 ### Senstivity Plot Plot
-![Drawdown](assets/parameter_senstivity.png)
+![Senstivity](assets/parameter_senstivity.png)
 
-### Rolling 6-Month Sharpe Ratio
-![Rolling Sharpe](assets/rolling_sharpe.png)
+
