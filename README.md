@@ -158,7 +158,7 @@ The `/docs` folder contains a 3-page writeup covering:
 ## Results
 
 ### Equity Curve (Log Scale) vs. Equal-Weight Benchmark
-![Equity Curve](assets/equity_curve.png)
+![Equity Curve](assets/Cumulative_Portfolio_Equity.png)
 
 ### Drawdown Underwater Plot
 ![Drawdown](assets/drawdown.png)
