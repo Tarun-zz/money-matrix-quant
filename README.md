@@ -162,5 +162,3 @@ The `/docs` folder contains a 3-page writeup covering:
 
 ### Senstivity Plot Plot
 ![Senstivity](assets/parameter_senstivity.png)
-
-
