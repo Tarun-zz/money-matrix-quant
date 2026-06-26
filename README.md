@@ -160,8 +160,8 @@ The `/docs` folder contains a 3-page writeup covering:
 ### Equity Curve (Log Scale) vs. Equal-Weight Benchmark
 ![Equity Curve](assets/Cumulative_Portfolio_Equity.png)
 
-### Drawdown Underwater Plot
-![Drawdown](assets/drawdown.png)
+### Senstivity Plot Plot
+![Drawdown](assets/parameter_senstivity.png)
 
 ### Rolling 6-Month Sharpe Ratio
 ![Rolling Sharpe](assets/rolling_sharpe.png)
